@@ -67,7 +67,7 @@ productList.push({
 productList.push({
     name: 'ESP Guitar',
     price: 8000,
-    image: 'https://ae01.alicdn.com/kf/H2d3cc0770fe945d49c65e659ee4d5496Y/Guitarra-El-ctrica-con-forma-de-ganso-envejecido-reliquia-James-Hetfield-Explore-EET-FUK-incrustaci-n.jpg_Q90.jpg_.webp'
+    image: 'https://e1.pxfuel.com/desktop-wallpaper/712/571/desktop-wallpaper-some-esp-p-the-esp-guitar-company-backgrounds-esp-guitar.jpg'
 });
 
 productList.push({
